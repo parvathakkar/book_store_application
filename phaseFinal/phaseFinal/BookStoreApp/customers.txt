@@ -1,0 +1,9 @@
+Tariq, 1234, 1500
+Hamaad, 1234, 950
+Sanjam, 1234, 1000
+Parva, 1111, 100
+The man, 1234, 230
+Le Man, 1234, 0
+Bill Nye, science, 0
+Jack Black, 123, 120
+Rick, 1234, 3000

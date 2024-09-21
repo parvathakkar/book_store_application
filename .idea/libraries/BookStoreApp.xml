@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BookStoreApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/phaseFinal/phaseFinal/BookStoreApp/dist/BookStoreApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

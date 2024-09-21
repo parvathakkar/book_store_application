@@ -1,0 +1,15 @@
+Book3, 30.0
+Book4, 40.0
+Book5, 50.0
+Book6, 60.0
+Book7, 70.0
+Book8, 80.0
+Book9, 90.0
+Book10, 100.0
+Book11, 110.0
+Book12, 120.0
+Book13, 130.0
+Book14, 140.0
+Book15, 150.0
+A Good Mark, 1000000.0
+peanuts adventures, 69.0
